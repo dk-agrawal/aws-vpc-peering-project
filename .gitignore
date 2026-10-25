@@ -1,0 +1,7 @@
+@"
+*.pem
+*.ppk
+.env
+.aws/
+credentials
+"@ | Set-Content .gitignore
